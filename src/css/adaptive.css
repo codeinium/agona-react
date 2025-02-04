@@ -1,0 +1,139 @@
+@media (max-width: 960px) {
+    .sections-container {
+        margin-top: 80px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .section-banner {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .logo-section {
+        width: 100%;
+        align-items: center;
+    }
+
+    .logo-group {
+        padding: 5vw;
+    }
+
+    .logo {
+        width: 80%;
+    }
+
+    .slogan-container, .marquee {
+        padding-top: 5vw;
+        padding-bottom: 5vw;
+    }
+
+    .slogan-content, .slogan-item {
+        margin-right: 20px;
+    }
+
+    .slogan-item img, .slogan-content img {
+        width: 40%;
+    }
+
+    .slogan-item span, .slogan-content span {
+        font-size: 1.5em;
+    }
+
+    .hot-sauce-section {
+        width: 100%;
+        padding: 5vw;
+    }
+
+    .hot-sauce-section h1 {
+        font-size: 2em;
+        padding-top: 3vw;
+        padding-bottom: 3vw;
+    }
+
+    .section-products {
+        min-width: 100%;
+    }
+
+    .lava-java {
+        flex-direction: column;
+        align-items: center;
+        padding: 3vw;
+    }
+
+    .lava-java h2 {
+        font-size: 2em;
+    }
+
+    .lava-java img {
+        margin: 2vw;
+        width: 80%;
+    }
+
+    .sauce-in-cup img {
+        width: 90%;
+    }
+
+    .container-for-cards,
+    .container-for-fires {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .container-for-cards img {
+        width: 50vw;
+    }
+
+    .product-card img {
+        width: 60vw;
+    }
+
+    .container-for-product-info img {
+        width: 55vw;
+    }
+
+    .product-description, .product-name {
+        font-size: 1.5em;
+    }
+
+    .story-section {
+        grid-template-columns: 1fr;
+    }
+
+    .container-for-story-card {
+        width: 100%;
+        height: auto;
+    }
+
+    .container-for-story-card h3 {
+        font-size: 1.2em;
+        top: 5vw;
+        left: 5vw;
+        width: 80%;
+    }
+
+    .container-for-story-card img,
+    .container-for-story img {
+        width: 100%;
+    }
+
+    .bottom-foreign-text {
+        top: -10vw;
+        font-size: 1.2em;
+    }
+
+    .container-for-items-of-running-line p {
+        font-size: 1em;
+    }
+
+    footer {
+        padding-top: 30vw;
+    }
+
+    footer address {
+        font-size: 1.2em;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+}

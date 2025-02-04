@@ -1,0 +1,10 @@
+:root {
+    font-family: "Roboto", sans-serif;
+    --button-header: #FB4B4D;
+    --border: 1px solid black;
+    --main-color: #CEFD3B;
+    --white-color: white;
+    --black-color: black;
+    max-width: 1920px;
+    min-width: 600px;
+}
